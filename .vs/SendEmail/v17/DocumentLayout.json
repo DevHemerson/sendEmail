@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hemer\\Desktop\\App2024.3\\SendEmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54220B-EBAA-4E63-AF86-63596E57C13E}|SendEmail\\SendEmail.csproj|c:\\users\\hemer\\desktop\\app2024.3\\sendemail\\sendemail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A54220B-EBAA-4E63-AF86-63596E57C13E}|SendEmail\\SendEmail.csproj|solutionrelative:sendemail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A54220B-EBAA-4E63-AF86-63596E57C13E}|SendEmail\\SendEmail.csproj|c:\\users\\hemer\\desktop\\app2024.3\\sendemail\\sendemail\\views\\email\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A54220B-EBAA-4E63-AF86-63596E57C13E}|SendEmail\\SendEmail.csproj|solutionrelative:sendemail\\views\\email\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hemer\\Desktop\\App2024.3\\SendEmail\\SendEmail\\Views\\Email\\Index.cshtml",
+              "RelativeDocumentMoniker": "SendEmail\\Views\\Email\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hemer\\Desktop\\App2024.3\\SendEmail\\SendEmail\\Views\\Email\\Index.cshtml",
+              "RelativeToolTip": "SendEmail\\Views\\Email\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T23:46:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hemer\\Desktop\\App2024.3\\SendEmail\\SendEmail\\appsettings.json",
+              "RelativeDocumentMoniker": "SendEmail\\appsettings.json",
+              "ToolTip": "C:\\Users\\hemer\\Desktop\\App2024.3\\SendEmail\\SendEmail\\appsettings.json",
+              "RelativeToolTip": "SendEmail\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T23:12:02.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
